@@ -1,12 +1,28 @@
-# React + Vite
+🎬 Movie App
+A simple movie discovery app where users can search for films and browse trending titles.
+Built with React + Vite and styled using Tailwind CSS.
+Currently a work in progress.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Demo: Coming Soon
+Figma: [link-to-figma]
 
-Currently, two official plugins are available:
+✨ Features
+🔎 Search movies by title
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📈 View trending movie list
 
-## Expanding the ESLint configuration
+📄 Movie details (title, poster, overview, release date, rating)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive layout
+
+🧰 Tech Stack
+React + Vite
+
+Tailwind CSS
+
+Fetch API
+
+TMDB API for movie data
+
+🔑 API Setup
+This app uses TMDB as its data source.
